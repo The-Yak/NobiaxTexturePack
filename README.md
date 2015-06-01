@@ -1,4 +1,4 @@
-This is a modified version of dlprentice's nobiax texture pack here.[1] I made some changes for my own usage like png conversion and reorganizing into one folder. Also uploaded to github to give a more permanent home for the pack.
+This is a modified version of dlprentice's nobiax texture pack. I made some changes for my own usage like png conversion and reorganizing into one folder. Also uploaded to github to give a more permanent home for the pack.
 
 These are all quality textures with separate diffuse, normals, and specular, and sometimes some others such as emission.
 Pack is 2gb in size. Includes 309 textures, 1300 individual files. All files converted to .png for ease of use. All original data including alpha channels has been preserved. I also reorganized all files into one folder and renamed based upon pattern number. Previews have been renamed to appear first when sorting by name.
