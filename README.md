@@ -11,7 +11,7 @@ Mirror2: https://drive.google.com/file/d/0B25BbZxm93S9VGJoSEI4SlVIczA/view?usp=s
 
 NOBIAX LICENSE TEXT BELOW:
 
-Provided by Nobiax.
+	Provided by Nobiax.
 
 	CC0 1.0 Universal (CC0 1.0)
 	Public Domain Dedication
@@ -22,11 +22,11 @@ Provided by Nobiax.
 	
 	You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
-So absolutely free to use or to modify in any kind of work (personal, commercial or else) =)
+	So absolutely free to use or to modify in any kind of work (personal, commercial or else) =)
 
-Please, give me a link of the result at nobiax.deviantart.com or my other account on OpenGameArt.com (yughues) or ShareCG.com (yughues)
-( watch my journal on deviantart to find them ) ;)
-
-Or on Youtube.
-
-For any commissions details are on my DeviantArt account.
+	Please, give me a link of the result at nobiax.deviantart.com or my other account on OpenGameArt.com (yughues) 	or ShareCG.com (yughues)
+	( watch my journal on deviantart to find them ) ;)
+	
+	Or on Youtube.
+	
+	For any commissions details are on my DeviantArt account.
